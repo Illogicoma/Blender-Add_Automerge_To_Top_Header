@@ -1,10 +1,10 @@
 schema_version = "1.0.0"
 
 # Unique identifier (use lowercase, no spaces)
-id = "restore_automerge_header"
+id = "add_automerge_header"
 version = "1.0.0"
-name = "Restore Auto-Merge to Header"
-tagline = "Brings the Auto Merge toggle and threshold back to the 3D header in Edit Mode."
+name = "Add Automerge To Top Header"
+tagline = "Brings the Auto Merge toggle and threshold to the topmost 3D header in Edit Mode."
 maintainer = "Illogicoma <https://github.com/Illogicoma>"
 type = "add-on"
 
@@ -22,3 +22,4 @@ license = [
 # Optional: Tags for the extension manager
 
 tags = ["Interface", "Modeling"]
+

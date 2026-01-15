@@ -1,6 +1,7 @@
 ## Release v1.0.0
 
-This extension just adds the **Auto Merge** button and **Threshold** field directly to the top 3D Viewport header in Blender 5.0, instead of in a second header. It's a tiny QoL change, but serves as practice.
+A test extension for setting up manifests / learning github / blender addon creation
+This extension just adds the **Auto Merge** button and **Threshold** field directly to the top 3D Viewport header in Blender 5.0, instead of in a second header. It's a tiny and almost pointless QoL change, but I like it there.
 
 ### ✨ Features
 - **One-Click Access**: Toggles Auto Merge directly from the header.
